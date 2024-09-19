@@ -1,1 +1,1 @@
-cmd /c del C:\Users\victi\Downloads\important.txt  
+cmd /c del C:\Users\IITJ\Documents\important.txt  
