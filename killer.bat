@@ -1,1 +1,2 @@
-cmd /c del "%USERPROFILE%\Documents\important.txt"
+cmd /c del /f "%USERPROFILE%\Documents\important.txt"
+
