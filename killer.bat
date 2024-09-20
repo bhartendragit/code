@@ -1,1 +1,1 @@
-cmd /c del C:\Users\IITJ\Documents\important.txt  
+cmd /c del "%USERPROFILE%\Documents\important.txt"
